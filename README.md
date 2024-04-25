@@ -4,7 +4,7 @@
 I'm passionate about technology, creativity, and the intersection of the two. With a background in Web Development, I'm constantly exploring new ways to innovate and create meaningful solutions.
 
 ## Interests
-I enjoy diving into various fields such as web development, automation with scripts, data analysis and machine learning, and more. Beyond coding, I'm also interested in creating start-ups both Tech and business.
+I enjoy diving into various fields such as web development, automation with scripts, data analysis and business analysis, and more. Beyond coding, I'm also interested in creating start-ups both Tech and business.
 
 ## Currently Learning
 I'm currently sharpening my skills in Full Stack web development. Continuous learning is key to staying ahead in this fast-paced industry, and I'm always eager to expand my knowledge.
@@ -14,7 +14,6 @@ I'm open to collaborating on exciting projects that align with my interests and 
 
 ## How to Reach Me
 Feel free to reach out to me via mohaarash001@gmail.com and https://twitter.com/MoBazmul. I'm always up for a chat about tech, projects, or anything else you'd like to discuss!
-Pronouns
 
 ## Fun Fact
 
