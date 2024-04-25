@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mo Bazmul
 
 ## About Me
-I'm passionate about technology, creativity, and the intersection of the two. With a background in python Web Development, I'm constantly exploring new ways to innovate and create meaningful solutions.
+I'm passionate about technology, creativity, and the intersection of the two. With a background in Web Development, I'm constantly exploring new ways to innovate and create meaningful solutions.
 
 ## Interests
 I enjoy diving into various fields such as artificial web development, automation with scripts, data analysis and machine learning, and more. Beyond coding, I'm also interested in creating start-ups both Tech and business.
